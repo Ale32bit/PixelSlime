@@ -1,0 +1,25 @@
+{
+  "name": "pixelslime",
+  "version": "1.2.0",
+  "description": "Discord Bot",
+  "main": "shardmanager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ale32bit",
+  "license": "GNU GPLv3",
+  "dependencies": {
+    "bufferutil": "^3.0.3",
+    "discord.js": "^11.2.1",
+    "erlpack": "github:hammerandchisel/erlpack",
+    "libsodium": "^0.7.2",
+    "mathjs": "^3.17.0",
+    "node-opus": "^0.2.7",
+    "node-schedule": "^1.2.5",
+    "raven": "^2.2.1",
+    "superagent": "^3.8.1",
+    "xml2js": "^0.4.19",
+    "youtube-dl": "^1.12.2",
+    "ytdl-core": "^0.18.3"
+  }
+}
